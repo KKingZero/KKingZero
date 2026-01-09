@@ -1,16 +1,32 @@
-## Hi there 👋
+# Harrison McCall ⚔️
+Founder of **Zypheron** | Offensive & OPSEC Security Engineer
 
-<!--
-**KKingZero/KKingZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building automated red-team & AI-driven security tooling.
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![Go](https://img.shields.io/badge/Go-Systems%20Tooling-00ADD8)
+![C](https://img.shields.io/badge/C-Low--Level%20Security-A8B9CC)
+![Offensive Security](https://img.shields.io/badge/Focus-Offensive%20Security-red)
+![AI Security](https://img.shields.io/badge/AI-Security-purple)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+ **Zypheron** – Automated offensive & defensive security platform
+- AI-assisted pentesting & malware analysis
+- Firmware & low-level security research
+
+## 🧰 Core Skills
+- Offensive Security (Web, API, Automation)
+- Python • Go • C • Bash • Linux
+- AI for Security (Detection, Analysis, Automation)
+- Red Team Tooling, CLI & Systems Design
+
+## Philosophy
+Security should be:
+- Automated
+- Developer-native
+- AI-augmented, not AI-dependent
+
+## 📬 Connect
+- 🌐 https://zypheron.net
+- 📧 2StarX@protonmail.com
+- Open to roles, consulting, and collaboration on security tooling and infrastructure.
