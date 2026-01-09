@@ -1,7 +1,9 @@
 # Harrison McCall ⚔️
-Founder of **Zypheron** | Offensive & OPSEC Security Engineer
+Founder of **Zypheron** | Offensive Security & Secure Systems Engineer
 
 > Building automated red-team & AI-driven security tooling.
+
+Zypheron is a platform for AI augmented pentesting.
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 ![Go](https://img.shields.io/badge/Go-Systems%20Tooling-00ADD8)
