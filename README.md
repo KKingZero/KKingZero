@@ -17,7 +17,7 @@ Zypheron is a platform for AI augmented pentesting.
 - Firmware & low-level security research
 
 ## 🧰 Core Skills
-- Offensive Security (Web, API, Automation)
+- Offensive Security (AD,Web, API, Automation)
 - Python • Go • C • Bash • Linux
 - AI for Security (Detection, Analysis, Automation)
 - Red Team Tooling, CLI & Systems Design
