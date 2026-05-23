@@ -32,3 +32,9 @@ Security should be:
 - 🌐 https://zypheron.net
 - 📧 2StarX@protonmail.com
 - Open to roles, consulting, and collaboration on security tooling and infrastructure.
+
+---
+
+> 🔒 **Operational Security starts with your inbox.**  
+> I use [Tuta Mail](https://app.tuta.com/signup?ref=a3lzU2lCc1g&s=0) end-to-end encrypted, zero-knowledge, post-quantum ready.  
+> No Google. No ads. No data harvesting. Built for people who actually care about opsec.
