@@ -25,7 +25,7 @@ Zypheron is a platform for AI augmented pentesting.
 
 ## Philosophy
 Security should be:
-- Automated
+- Augmented
 - Developer-native
 - AI-augmented, not AI-dependent
 
