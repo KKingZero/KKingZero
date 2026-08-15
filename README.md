@@ -21,13 +21,13 @@ Zypheron is a platform for AI augmented pentesting.
 - Python • Go • C • Bash • Linux
 - AI for Security (Detection, Analysis, Automation)
 - Red Team Tooling, CLI & Systems Design
-- Hack The Box: [Profile →](https://app.hackthebox.com/users/3339420)
+- Hack The Box: [Profile](https://app.hackthebox.com/users/3339420)
 
 ## Philosophy
 Security should be:
-- Augmented
 - Developer-native
 - AI-augmented, not AI-dependent
+- My site: [Harrison](https://harrisonmccall.com)
 
 ## 📬 Connect
 - 🌐 https://zypheron.net
