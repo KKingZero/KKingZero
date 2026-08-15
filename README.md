@@ -12,8 +12,8 @@ Zypheron is a platform for AI augmented pentesting.
 ![AI Security](https://img.shields.io/badge/AI-Security-purple)
 
 ## Current Focus
- **Zypheron** – Automated offensive & defensive security platform
-- AI-assisted pentesting & malware analysis
+ **Zypheron** – Augmented offensive & defensive security platform
+- AI-assisted pentesting & C2 development
 - Firmware & low-level security research
 
 ## 🧰 Core Skills
@@ -21,6 +21,7 @@ Zypheron is a platform for AI augmented pentesting.
 - Python • Go • C • Bash • Linux
 - AI for Security (Detection, Analysis, Automation)
 - Red Team Tooling, CLI & Systems Design
+- Hack The Box: [Profile →](https://app.hackthebox.com/users/3339420)
 
 ## Philosophy
 Security should be:
